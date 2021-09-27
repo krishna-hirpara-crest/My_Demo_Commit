@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Demo Table" max_length="40" name="x_caci_demo_applic_demo_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Password" max_length="40" name="password" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Username" max_length="40" name="username" type="string"/>
+    </element>
+</database>
